@@ -8,6 +8,6 @@ Template inspiration from ...
 
 ### Homepage
 
-<img src="images/img/main-port.png" alt="home"></img>
+<img src="https://github.com/nancyepey/demo-portfolio/blob/master/Portfolio/images/img/main-port.PNG" alt="home"></img>
 
 <a href="https://nancy-portfolio.netlify.app/">https://nancy-portfolio.netlify.app/</a>
